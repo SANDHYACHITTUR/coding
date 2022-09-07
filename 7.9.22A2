@@ -12,3 +12,15 @@ void main()
 	printf("Sum of %d numbers = %d",n,sum);
 	
 }
+-------
+OUTPUT:
+--------
+3
+1 4 6
+11
+-------
+OUTPUT:
+-------
+4
+1 1 2 3
+7
